@@ -176,5 +176,3 @@ This project helped reinforce key Python programming concepts, including:
 
 B.Tech Computer Science & Engineering (AI & ML)
 
-Manipal University Jaipur
-
